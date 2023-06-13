@@ -1,0 +1,24 @@
+[33m0d46722[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/4-mypage[m[33m)[m refactor: mypage 코드 리팩토링
+[33macd1b77[m Merge pull request #14 from MyIceCreamBox/feature/2-loggedInMainpage
+[33m54260a0[m[33m ([m[1;31morigin/feature/2-loggedInMainpage[m[33m, [m[1;32mfeature/2-loggedInMainpage[m[33m)[m refactor:LoggedInMainpage 수정
+[33m71e951f[m[33m ([m[1;32mmain[m[33m)[m style: my page style 수정
+[33ma2e8b01[m Merge pull request #13 from MyIceCreamBox/feature/loadingAnimation
+[33m55b28a5[m[33m ([m[1;31morigin/feature/loadingAnimation[m[33m)[m feat: loading page 디자인 변경 및 애니메이션 추가
+[33m41ad118[m Merge pull request #12 from MyIceCreamBox/feature/5-login
+[33m6a862c6[m[33m ([m[1;31morigin/feature/5-login[m[33m)[m feat:login-회원가입 비밀번호 확인 & 토스트 메세지 & 정보입력과 비밀번호 일치 여부에 따른 버튼 비활성화
+[33m28dd698[m Merge pull request #11 from MyIceCreamBox/feature/5-login
+[33mf66df5f[m refactor: login&signup 코드 리팩토링
+[33mbc659d7[m refactor: login&signup 코드 리팩토링
+[33mfdc6418[m Merge pull request #9 from MyIceCreamBox/feature/4-mypage
+[33m63aa7cf[m[33m ([m[1;31morigin/feature/4-mypage[m[33m)[m feat: mypage UI 구현
+[33m2016f3e[m Merge pull request #7 from MyIceCreamBox/feature/2-loggedInMainpage
+[33m5b89d9e[m feat: loggedInMainpage 로그인 후 메인페이지 UI 구현
+[33m33e4ac8[m Merge pull request #3 from MyIceCreamBox/feature/6-etc
+[33meb04051[m[33m ([m[1;31morigin/feature/6-etc[m[33m)[m feat:etc-404페이지&로딩페이지 구현
+[33me6263ed[m Merge pull request #2 from MyIceCreamBox/feature/5-login
+[33mebad81d[m feat:login-로그인&회원가입 UI 구
+[33mf2011e1[m Merge pull request #1 from MyIceCreamBox/feature/1-mainpage
+[33mf3b7932[m Create issue_template.md
+[33m3afbad5[m[33m ([m[1;31morigin/feature/1-mainpage[m[33m)[m feat:mainpage 로그인&모달 UI 구현
+[33m3b400aa[m init : created  project
+[33me99877d[m init
